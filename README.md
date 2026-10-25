@@ -30,10 +30,8 @@ Installation
 
 1. Clone the repository
 
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd brain-tumor-project
-
-Replace "YOUR_GITHUB_REPOSITORY_URL" with your repository URL.
+git clone https://github.com/ilhuti000-max/YOUR-REPOSITORY.git
+cd brain-tumor--classification
 
 2. Create a virtual environment
 
