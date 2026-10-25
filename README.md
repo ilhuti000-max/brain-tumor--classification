@@ -30,7 +30,7 @@ Installation
 
 1. Clone the repository
 
-git clone https://github.com/ilhuti000-max/YOUR-REPOSITORY.git
+git clone https://github.com/ilhuti000-max/brain-tumor--classification.git
 cd brain-tumor--classification
 
 2. Create a virtual environment
