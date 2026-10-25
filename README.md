@@ -55,6 +55,12 @@ pip install -r requirements.txt
 streamlit run app.py
 
 Open the local URL displayed in your terminal.
+# Brain Tumor Classification AI
+
+🚀 [Open the Live Dashboard](https://brain-tumor--classification-6dbhv8yyhmhcgudezxwbb7.streamlit.app/)
+
+An AI-powered brain tumor image classification project built with TensorFlow and Streamlit.
+
 
 Model Evaluation
 
