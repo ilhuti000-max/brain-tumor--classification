@@ -21,9 +21,13 @@ Technology Stack
 Project Structure
 
 brain-tumor--classification/
+
 ├── app.py
+
 ├── brain_tumor_model.keras
+
 ├── requirements.txt
+
 └── README.md
 
 Installation
