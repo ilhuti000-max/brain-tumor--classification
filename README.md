@@ -1,4 +1,5 @@
-Brain Tumor Classification AI
+# Brain Tumor Classification AI
+
 
 A deep learning research project that classifies brain MRI images into two categories: Tumor and No Tumor. The project uses a trained Keras model and a Streamlit web interface to make image-based predictions.
 
@@ -55,9 +56,9 @@ pip install -r requirements.txt
 streamlit run app.py
 
 Open the local URL displayed in your terminal.
-# Brain Tumor Classification AI
 
-🚀 [Open the Live Dashboard](https://brain-tumor--classification-6dbhv8yyhmhcgudezxwbb7.streamlit.app/)
+
+ [Open the Live Dashboard](https://brain-tumor--classification-6dbhv8yyhmhcgudezxwbb7.streamlit.app/)
 
 An AI-powered brain tumor image classification project built with TensorFlow and Streamlit.
 
